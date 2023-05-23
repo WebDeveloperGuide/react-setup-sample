@@ -1,0 +1,18 @@
+.deals-board-change-view {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  padding: 0px 12px;
+  flex: 1;
+  .change-view-tabs {
+    .tab-button {
+      padding-left: 10px;
+    }
+  }
+  .crm-location-header {
+    flex: 1;
+    .MuiFormControl-root {
+      width: 350px;
+    }
+  }
+}
